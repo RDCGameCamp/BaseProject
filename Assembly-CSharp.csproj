@@ -128,6 +128,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
      <None Include="Assets\Dialogue System\Examples\Bark Example\Bark Conversation\_README.txt" />
      <None Include="Assets\Dialogue System\Scripts\Supplemental\UI\Example\Art\_README.txt" />
+     <None Include="Assets\Wood texture floor_01\readme.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
