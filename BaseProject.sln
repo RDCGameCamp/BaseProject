@@ -35,10 +35,14 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+<<<<<<< HEAD
 																																																								GlobalSection(MonoDevelopProperties) = preSolution
 =======
 <<<<<<< HEAD
 																									GlobalSection(MonoDevelopProperties) = preSolution
+=======
+																																				GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 1181eb5d0ee908f40f581b3e1c045540d4aac5c9
 =======
 																					GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> origin/Shadows_from_Light
