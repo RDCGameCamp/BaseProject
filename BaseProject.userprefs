@@ -1,6 +1,19 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Users\guest2.CSP1010860.000\Documents\BaseProject\Assets\Dialogue System\Examples\Feature Demo\FeatureDemo.cs">
+    <Files>
+      <File FileName="..\..\BaseProject\Assets\adder.js" Line="5" Column="76" />
+      <File FileName="c:\Users\guest2.CSP1010860.000\Documents\BaseProject\Assets\Dialogue System\Examples\Feature Demo\FeatureDemo.cs" Line="99" Column="52" />
+      <File FileName="c:\Users\guest2.CSP1010860.000\Documents\BaseProject\Assets\Dialogue System\Scripts\Supplemental\Sequencer Commands\SequencerCommandLoadLevel.cs" Line="18" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-UnityScript" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
