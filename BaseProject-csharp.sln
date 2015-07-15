@@ -29,10 +29,14 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
+<<<<<<< HEAD
 																										GlobalSection(MonoDevelopProperties) = preSolution
 =======
 																					GlobalSection(MonoDevelopProperties) = preSolution
 >>>>>>> origin/Shadows_from_Light
+=======
+																							GlobalSection(MonoDevelopProperties) = preSolution
+>>>>>>> 349312e51f61ed8a5c1bb715bb702c722fbd0078
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
