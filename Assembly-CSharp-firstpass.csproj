@@ -303,10 +303,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="DialogueSystem">
- <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
+ <HintPath>C:/Users/guest2.CSP1010853/Documents/GitHub/BaseProject/Assets/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
  </Reference>
  <Reference Include="LuaInterpreter">
- <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/LuaInterpreter.dll</HintPath>
+ <HintPath>C:/Users/guest2.CSP1010853/Documents/GitHub/BaseProject/Assets/Dialogue System/DLLs/LuaInterpreter.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
