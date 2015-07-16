@@ -1,18 +1,8 @@
 ﻿<Properties>
-<<<<<<< HEAD
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Light tester.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Tester.cs">
     <Files>
-      <File FileName="Assets\Standard Assets\Light tester.cs" Line="1" Column="1" />
-=======
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MovingPlatform.cs">
-    <Files>
-      <File FileName="BaseProject.sln" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MovingPlatforms.cs" Line="7" Column="28" />
-      <File FileName="c:\Users\Public\Documents\Unity Projects\BaseProject\Assets\Dialogue System\Examples\Feature Demo\FeatureDemo.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\MovingPlatform.cs" Line="14" Column="28" />
->>>>>>> 1181eb5d0ee908f40f581b3e1c045540d4aac5c9
+      <File FileName="Assets\Standard Assets\Tester.cs" Line="28" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
