@@ -46,11 +46,15 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
      <Compile Include="Assets\DX11_Tessellation\Standard Assets\CrossPlatformInput\Scripts\Joystick.cs" />
      <Compile Include="Assets\DX11_Tessellation\Standard Assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
      <Compile Include="Assets\DX11_Tessellation\Standard Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
      <Compile Include="Assets\Destroyed_city_FREE\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Destroyed_city_FREE\Standard Assets\Water (Pro Only)\Sources\Scripts\WaterGood.cs" />
+=======
+     <Compile Include="Assets\Campfire Pack\Script\SwitchView.cs" />
+>>>>>>> c14d5500bbf874bdf45508ba4ebb53f566ac01db
      <Compile Include="Assets\Dialogue System\Examples\Feature Demo\FeatureDemo.cs" />
      <Compile Include="Assets\Dialogue System\Examples\Feature Demo\Multiple Database Example\AddRemoveDatabaseTrigger.cs" />
      <Compile Include="Assets\Dialogue System\Examples\Lua Example\LuaExample.cs" />
@@ -109,6 +113,7 @@
      <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateTextFieldUI.cs" />
      <Compile Include="Assets\Elementals\Scripts\OrbitCamera.cs" />
      <Compile Include="Assets\Elementals\Scripts\TestParticles.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\New Folder\Trigger.cs" />
      <Compile Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\BlurEffect.cs" />
      <Compile Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\ColorCorrectionEffect.cs" />
@@ -139,6 +144,12 @@
      <Compile Include="Assets\TutorialAssets\Scripts\FreeflightCamera.cs" />
      <Compile Include="Assets\TutorialAssets\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlobalFog.shader" />
+=======
+     <Compile Include="Assets\FreeflightCamera.cs" />
+     <Compile Include="Assets\PVC_StandinGeo\Scripts\PVC_Billboards.cs" />
+     <Compile Include="Assets\PVC_StandinGeo\Scripts\PVC_StandInGeo_Fade.cs" />
+     <Compile Include="Assets\Trigger.cs" />
+>>>>>>> c14d5500bbf874bdf45508ba4ebb53f566ac01db
      <None Include="Assets\Dialogue System\_README.txt" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
@@ -155,10 +166,14 @@
      <None Include="Assets\The Work Buildings\Readme.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
      <None Include="Assets\Dialogue System\Prefabs\iOS\_README.txt" />
+<<<<<<< HEAD
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowConeTap.shader" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\FisheyeShader.shader" />
      <None Include="Assets\Destroyed_city_FREE\Destroyed_city_FREE_Info.txt" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
+=======
+     <None Include="Assets\Standard Assets\Prototyping\Prefabs\Shaders\WorldCoordDiffuse.shader" />
+>>>>>>> c14d5500bbf874bdf45508ba4ebb53f566ac01db
      <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Computer\Bitwise Font\!license.txt" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\MotionBlur.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
@@ -179,9 +194,13 @@
      <None Include="Assets\Dialogue System\Examples\Bark Example\Bark Conversation\_README.txt" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CreaseApply.shader" />
      <None Include="Assets\Dialogue System\Scripts\Supplemental\UI\Example\Art\_README.txt" />
+<<<<<<< HEAD
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GrayscaleEffect.shader" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CameraMotionBlurDX11.shader" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+=======
+     <None Include="Assets\Wood texture floor_01\readme.txt" />
+>>>>>>> c14d5500bbf874bdf45508ba4ebb53f566ac01db
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
@@ -203,6 +222,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
      <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Circle\Textures\_README.txt" />
+     <None Include="Assets\PVC_StandinGeo\Material\StandInGeoShader.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
      <None Include="Assets\DX11_Tessellation\DX11_Tessellation_Free\Shaders\Legacy_Fixed.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
@@ -378,10 +398,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="DialogueSystem">
- <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
+ <HintPath>C:/Users/guest2.CSP1010853/Documents/GitHub/BaseProject/Assets/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
  </Reference>
  <Reference Include="LuaInterpreter">
- <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/LuaInterpreter.dll</HintPath>
+ <HintPath>C:/Users/guest2.CSP1010853/Documents/GitHub/BaseProject/Assets/Dialogue System/DLLs/LuaInterpreter.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>

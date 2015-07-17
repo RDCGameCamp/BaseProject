@@ -41,5 +41,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+<<<<<<< HEAD
 /Temp
 /Library
+=======
+/Library
+/Temp
+>>>>>>> c14d5500bbf874bdf45508ba4ebb53f566ac01db

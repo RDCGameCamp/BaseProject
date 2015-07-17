@@ -86,10 +86,14 @@
      <None Include="Assets\The Work Buildings\Readme.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
      <None Include="Assets\Dialogue System\Prefabs\iOS\_README.txt" />
+<<<<<<< HEAD
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GlowConeTap.shader" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\FisheyeShader.shader" />
      <None Include="Assets\Destroyed_city_FREE\Destroyed_city_FREE_Info.txt" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
+=======
+     <None Include="Assets\Standard Assets\Prototyping\Prefabs\Shaders\WorldCoordDiffuse.shader" />
+>>>>>>> c14d5500bbf874bdf45508ba4ebb53f566ac01db
      <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Computer\Bitwise Font\!license.txt" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\MotionBlur.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
@@ -110,9 +114,13 @@
      <None Include="Assets\Dialogue System\Examples\Bark Example\Bark Conversation\_README.txt" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CreaseApply.shader" />
      <None Include="Assets\Dialogue System\Scripts\Supplemental\UI\Example\Art\_README.txt" />
+<<<<<<< HEAD
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\GrayscaleEffect.shader" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\CameraMotionBlurDX11.shader" />
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+=======
+     <None Include="Assets\Wood texture floor_01\readme.txt" />
+>>>>>>> c14d5500bbf874bdf45508ba4ebb53f566ac01db
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
@@ -134,6 +142,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
      <None Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Circle\Textures\_README.txt" />
+     <None Include="Assets\PVC_StandinGeo\Material\StandInGeoShader.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
      <None Include="Assets\DX11_Tessellation\DX11_Tessellation_Free\Shaders\Legacy_Fixed.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
@@ -300,7 +309,15 @@
      <None Include="Assets\Palace of Orinthalian\Standard Assets\Image Effects (Pro Only)\_Sources\Shaders\_Antialiasing\DLAA.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="Assembly-UnityScript">
+<<<<<<< HEAD
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+=======
+<<<<<<< HEAD
+ <HintPath>C:/Users/guest2.CSP1010853/Documents/GitHub/BaseProject/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+=======
+ <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+>>>>>>> a00e601d8ae5282ce2e01ec71f69f11009d962cc
+>>>>>>> c14d5500bbf874bdf45508ba4ebb53f566ac01db
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -318,6 +335,18 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="DialogueSystem">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+ <HintPath>C:/Users/guest2.CSP1010853/Documents/GitHub/BaseProject/Assets/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
+ </Reference>
+ <Reference Include="LuaInterpreter">
+ <HintPath>C:/Users/guest2.CSP1010853/Documents/GitHub/BaseProject/Assets/Dialogue System/DLLs/LuaInterpreter.dll</HintPath>
+ </Reference>
+ <Reference Include="DialogueSystemEditors">
+ <HintPath>C:/Users/guest2.CSP1010853/Documents/GitHub/BaseProject/Assets/Dialogue System/DLLs/Editor/DialogueSystemEditors.dll</HintPath>
+=======
+>>>>>>> c14d5500bbf874bdf45508ba4ebb53f566ac01db
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
  </Reference>
  <Reference Include="LuaInterpreter">
@@ -325,6 +354,10 @@
  </Reference>
  <Reference Include="DialogueSystemEditors">
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/Editor/DialogueSystemEditors.dll</HintPath>
+<<<<<<< HEAD
+=======
+>>>>>>> a00e601d8ae5282ce2e01ec71f69f11009d962cc
+>>>>>>> c14d5500bbf874bdf45508ba4ebb53f566ac01db
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
