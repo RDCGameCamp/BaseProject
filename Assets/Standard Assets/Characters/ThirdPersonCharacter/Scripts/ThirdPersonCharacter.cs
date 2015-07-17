@@ -28,6 +28,8 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 		Vector3 m_CapsuleCenter;
 		CapsuleCollider m_Capsule;
 		bool m_Crouching;
+		public Rigidbody rb;
+		public GameObject Robot;
 
 
 		void Start()
@@ -40,6 +42,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 
 			m_Rigidbody.constraints = RigidbodyConstraints.FreezeRotationX | RigidbodyConstraints.FreezeRotationY | RigidbodyConstraints.FreezeRotationZ;
 			m_OrigGroundCheckDistance = m_GroundCheckDistance;
+
 		}
 
 
@@ -195,6 +198,16 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 				// we preserve the existing y part of the current velocity.
 				v.y = m_Rigidbody.velocity.y;
 				m_Rigidbody.velocity = v;
+			}
+		}
+
+		void OnTriggerEnter(Collider other)
+		{
+			if (other.gameObject.CompareTag ("kyel")) {
+				transform.position = new Vector3 (-8.231f, 0f, 2.557f);
+				print(transform.position.x);
+				Robot.transform.position = new Vector3 (-17.16f, -8.59f, 2.74f);
+				rb.velocity = new Vector3 (0, 0, 0);
 			}
 		}
 
