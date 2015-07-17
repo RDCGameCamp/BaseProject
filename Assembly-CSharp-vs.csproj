@@ -46,6 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Brick.cs" />
+     <Compile Include="Assets\CameraController.cs" />
      <Compile Include="Assets\Dialogue System\Examples\Feature Demo\FeatureDemo.cs" />
      <Compile Include="Assets\Dialogue System\Examples\Feature Demo\Multiple Database Example\AddRemoveDatabaseTrigger.cs" />
      <Compile Include="Assets\Dialogue System\Examples\Lua Example\LuaExample.cs" />
@@ -102,6 +104,12 @@
      <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateDialogueUI.cs" />
      <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateQuestLogWindow.cs" />
      <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateTextFieldUI.cs" />
+     <Compile Include="Assets\Restart.cs" />
+     <Compile Include="Assets\SANIC.cs" />
+     <Compile Include="Assets\StandardAssets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Warrior Pack Bundle 1 Free\Code\SmoothFollow.cs" />
+     <Compile Include="Assets\Warrior Pack Bundle 1 Free\Code\WarriorAnimationDemo.cs" />
+     <Compile Include="Assets\brekreturn.cs" />
      <None Include="Assets\Dialogue System\_README.txt" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
@@ -131,6 +139,7 @@
      <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\Dialogue System\Examples\Art\Sounds\_README.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
+     <None Include="Assets\DungeonLevers\Readme.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
      <None Include="Assets\Dialogue System\DLLs\_README.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
