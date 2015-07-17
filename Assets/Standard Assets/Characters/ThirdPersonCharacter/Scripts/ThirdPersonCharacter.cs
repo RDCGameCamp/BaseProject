@@ -199,6 +199,14 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 			}
 		}
 
+		void OnTriggerEnter(Collider other)
+		{
+			if (other.gameObject.CompareTag ("watertp")) 
+			{
+				transform.position = new Vector3 (10.5f, 0.5f, 0f);
+				print (transform.position.x);
+			}
+		}
 
 
 		void OnTriggerEnter(Collider other) 

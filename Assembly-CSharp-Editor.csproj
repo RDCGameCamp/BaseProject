@@ -98,6 +98,7 @@
      <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\Dialogue System\Examples\Art\Sounds\_README.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
+     <None Include="Assets\DungeonLevers\Readme.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
      <None Include="Assets\Dialogue System\DLLs\_README.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
@@ -271,8 +272,11 @@
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
       <Project>{DA228BDB-9673-AAE5-E232-34CE9FD69B30}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+<<<<<<< HEAD
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
       <Project>{952EB7B2-06EB-8911-39F7-5046BF4D7CCB}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+=======
+>>>>>>> 643debc4c90f97661cec09ac2adae5c6d1266484
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{6832F195-A864-FBC1-B4A1-641CE4C408CA}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript.unityproj">

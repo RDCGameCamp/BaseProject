@@ -47,6 +47,22 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Dialogue System\Prefabs\Unity Dialogue UIs\Necromancer\Necromancer GUI\GUITestScript.js" />
+     <Compile Include="Assets\DungeonLevers\Scripts\ActivationScript.js" />
+     <Compile Include="Assets\DungeonLevers\Scripts\ActivationScriptTop.js" />
+     <Compile Include="Assets\DungeonLevers\Scripts\CharacterMovement.js" />
+     <Compile Include="Assets\DungeonLevers\Scripts\InteractionScript.js" />
+     <Compile Include="Assets\DungeonLevers\Scripts\MiscScripts\AddRandomForce.js" />
+     <Compile Include="Assets\DungeonLevers\Scripts\MiscScripts\AnimationSwitch.js" />
+     <Compile Include="Assets\DungeonLevers\Scripts\MiscScripts\IdleLever.js" />
+     <Compile Include="Assets\DungeonLevers\Scripts\MiscScripts\LightSwitch.js" />
+     <Compile Include="Assets\DungeonLevers\Scripts\MiscScripts\MoveTowards.js" />
+     <Compile Include="Assets\DungeonLevers\Scripts\MiscScripts\SpawnObject.js" />
+     <Compile Include="Assets\Furniture Pack 1 Free\Scripts\MouseOrbitZoom.js" />
+     <Compile Include="Assets\StandardAssets\Character Controllers\Sources\Scripts\CharacterMotor.js" />
+     <Compile Include="Assets\StandardAssets\Character Controllers\Sources\Scripts\FPSInputController.js" />
+     <Compile Include="Assets\StandardAssets\Character Controllers\Sources\Scripts\PlatformInputController.js" />
+     <Compile Include="Assets\StandardAssets\Character Controllers\Sources\Scripts\ThirdPersonCamera.js" />
+     <Compile Include="Assets\StandardAssets\Character Controllers\Sources\Scripts\ThirdPersonController.js" />
      <None Include="Assets\Dialogue System\_README.txt" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
@@ -76,6 +92,7 @@
      <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\Dialogue System\Examples\Art\Sounds\_README.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
+     <None Include="Assets\DungeonLevers\Readme.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
      <None Include="Assets\Dialogue System\DLLs\_README.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
