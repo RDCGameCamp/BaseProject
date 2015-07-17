@@ -265,11 +265,14 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
 >>>>>>> 093fd924f43cae17aa1c8863e4c0fbfb36215f6f
+=======
+>>>>>>> 643debc4c90f97661cec09ac2adae5c6d1266484
  <Reference Include="Assembly-UnityScript">
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
@@ -290,6 +293,7 @@
  </Reference>
  <Reference Include="DialogueSystem">
 <<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Editor/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
  </Reference>
  <Reference Include="LuaInterpreter">
@@ -298,6 +302,8 @@
  <Reference Include="DialogueSystemEditors">
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Editor/Dialogue System/DLLs/Editor/DialogueSystemEditors.dll</HintPath>
 =======
+=======
+>>>>>>> 643debc4c90f97661cec09ac2adae5c6d1266484
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
  </Reference>
  <Reference Include="LuaInterpreter">
@@ -305,7 +311,10 @@
  </Reference>
  <Reference Include="DialogueSystemEditors">
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/Editor/DialogueSystemEditors.dll</HintPath>
+<<<<<<< HEAD
 >>>>>>> 093fd924f43cae17aa1c8863e4c0fbfb36215f6f
+=======
+>>>>>>> 643debc4c90f97661cec09ac2adae5c6d1266484
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>

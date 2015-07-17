@@ -206,6 +206,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 
 		void OnTriggerEnter(Collider other)
 		{
+<<<<<<< HEAD
 			if (other.gameObject.CompareTag ("kyel")) {
 				transform.position = new Vector3 (-8.231f, 0f, 2.557f);
 				print(transform.position.x);
@@ -227,6 +228,14 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 			}
 		}
 
+=======
+			if (other.gameObject.CompareTag ("watertp")) 
+			{
+				transform.position = new Vector3 (10.5f, 0.5f, 0f);
+				print (transform.position.x);
+			}
+		}
+>>>>>>> 643debc4c90f97661cec09ac2adae5c6d1266484
 
 		void CheckGroundStatus()
 		{

@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <Compile Include="Assets\BlockDestroy.cs" />
      <Compile Include="Assets\CameraController.cs" />
      <Compile Include="Assets\HeadTurn.cs" />
@@ -59,6 +60,10 @@
 =======
      <Compile Include="Assets\CameraController.cs" />
      <Compile Include="Assets\CarMove.cs" />
+=======
+     <Compile Include="Assets\Brick.cs" />
+     <Compile Include="Assets\CameraController.cs" />
+>>>>>>> 643debc4c90f97661cec09ac2adae5c6d1266484
      <Compile Include="Assets\Dialogue System\Examples\Feature Demo\FeatureDemo.cs" />
      <Compile Include="Assets\Dialogue System\Examples\Feature Demo\Multiple Database Example\AddRemoveDatabaseTrigger.cs" />
      <Compile Include="Assets\Dialogue System\Examples\Lua Example\LuaExample.cs" />
@@ -115,10 +120,19 @@
      <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateDialogueUI.cs" />
      <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateQuestLogWindow.cs" />
      <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateTextFieldUI.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\FirstKeyPickup.cs" />
      <Compile Include="Assets\Rekt.cs" />
      <Compile Include="Assets\SecondKeyPickup.cs" />
      <Compile Include="Assets\camera follow.cs" />
+=======
+     <Compile Include="Assets\Restart.cs" />
+     <Compile Include="Assets\SANIC.cs" />
+     <Compile Include="Assets\StandardAssets\Character Controllers\Sources\Scripts\MouseLook.cs" />
+     <Compile Include="Assets\Warrior Pack Bundle 1 Free\Code\SmoothFollow.cs" />
+     <Compile Include="Assets\Warrior Pack Bundle 1 Free\Code\WarriorAnimationDemo.cs" />
+     <Compile Include="Assets\brekreturn.cs" />
+>>>>>>> 643debc4c90f97661cec09ac2adae5c6d1266484
      <None Include="Assets\Dialogue System\_README.txt" />
 >>>>>>> 093fd924f43cae17aa1c8863e4c0fbfb36215f6f
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
