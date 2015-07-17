@@ -29,7 +29,10 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 		CapsuleCollider m_Capsule;
 		bool m_Crouching;
 		public Rigidbody rb;
+<<<<<<< HEAD
 		public GameObject Robot;
+=======
+>>>>>>> 093fd924f43cae17aa1c8863e4c0fbfb36215f6f
 
 
 		void Start()
@@ -64,7 +67,7 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 			// control and velocity handling is different when grounded and airborne:
 			if (m_IsGrounded)
 			{
-				HandleGroundedMovement(crouch, jump);
+			HandleGroundedMovement(crouch, jump);
 			}
 			else
 			{
@@ -208,6 +211,19 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 				print(transform.position.x);
 				Robot.transform.position = new Vector3 (-17.16f, -8.59f, 2.74f);
 				rb.velocity = new Vector3 (0, 0, 0);
+			}
+		}
+
+
+
+		void OnTriggerEnter(Collider other) 
+		{
+			if (other.gameObject.CompareTag ("Car"))
+			{
+				transform.position = new Vector3(-5.511886f, 0.7f, -4.26253f);
+				print(transform.position.x);
+				System.Threading.Thread.Sleep(1000);
+				rb.velocity = new Vector3(0, 0, 0);
 			}
 		}
 

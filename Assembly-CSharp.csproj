@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
      <Compile Include="Assets\BlockDestroy.cs" />
      <Compile Include="Assets\CameraController.cs" />
      <Compile Include="Assets\HeadTurn.cs" />
@@ -55,6 +56,71 @@
      <Compile Include="Assets\NewBehaviourScript.cs" />
      <Compile Include="Assets\StandardAssets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <None Include="Assets\Editor\Dialogue System\_README.txt" />
+=======
+     <Compile Include="Assets\CameraController.cs" />
+     <Compile Include="Assets\CarMove.cs" />
+     <Compile Include="Assets\Dialogue System\Examples\Feature Demo\FeatureDemo.cs" />
+     <Compile Include="Assets\Dialogue System\Examples\Feature Demo\Multiple Database Example\AddRemoveDatabaseTrigger.cs" />
+     <Compile Include="Assets\Dialogue System\Examples\Lua Example\LuaExample.cs" />
+     <Compile Include="Assets\Dialogue System\Examples\Tutorial Example\Pickups\Pickup.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Chat Mapper\ChatMapperTools.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Sequencer Commands\SequencerCommandLoadLevel.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Bark UI\UnityUIBarkUI.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUIAlertControls.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUIBarkSubtitleDialogueUI.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUIDialogueControls.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUIDialogueUI.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUIQTEControls.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUIResponseButton.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUIResponseMenuControls.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUIRoot.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUISubtitleControls.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUITextFieldUI.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Dialogue UI\UnityUITimer.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Effects\LocalizeUIText.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Effects\UnityUIColorText.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Effects\UnityUIContinueButtonFastForward.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Effects\UnityUIScrollbarEnabler.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Effects\UnityUITypewriterEffect.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Effects\UpdateLocalizedUITexts.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Quest Log Window\UnityUIQuestLogWindow.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Quest Log Window\UnityUIQuestTemplate.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Quest Log Window\UnityUIQuestTitle.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Quest Log Window\UnityUIQuestTrackTemplate.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Quest Log Window\UnityUIQuestTracker.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Selector\UnityUISelectorDisplay.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Selector\UsableUnityUI.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Tools\UIButtonKeyTrigger.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\UI\Scripts\Tools\UITools.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\AlwaysFaceCamera.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\ConversationLogger.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\DieOnTakeDamage.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\ExtraDatabases.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\From Unity3D Community\SmoothCameraWithBumper.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\IncrementOnDestroy.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\NavigateOnMouseClick.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\PersistentDestructible.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\ProximitySelector.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\QuestTracker.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\RangeTrigger.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\SelectionDelegates.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\Selector.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\SelectorFollowTarget.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\SimpleController.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Supplemental\Utility\Usable.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Templates\Aurora\TemplateNWScript.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Templates\PersistentDataTemplate.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Templates\SequencerCommandTemplate.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateBarkUI.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateDialogueUI.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateQuestLogWindow.cs" />
+     <Compile Include="Assets\Dialogue System\Scripts\Templates\TemplateTextFieldUI.cs" />
+     <Compile Include="Assets\FirstKeyPickup.cs" />
+     <Compile Include="Assets\Rekt.cs" />
+     <Compile Include="Assets\SecondKeyPickup.cs" />
+     <Compile Include="Assets\camera follow.cs" />
+     <None Include="Assets\Dialogue System\_README.txt" />
+>>>>>>> 093fd924f43cae17aa1c8863e4c0fbfb36215f6f
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
@@ -209,6 +275,8 @@
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
       <Project>{DA228BDB-9673-AAE5-E232-34CE9FD69B30}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{952EB7B2-06EB-8911-39F7-5046BF4D7CCB}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

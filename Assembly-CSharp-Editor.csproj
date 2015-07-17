@@ -280,6 +280,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="DialogueSystem">
+<<<<<<< HEAD
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Editor/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
  </Reference>
  <Reference Include="LuaInterpreter">
@@ -287,6 +288,15 @@
  </Reference>
  <Reference Include="DialogueSystemEditors">
  <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Editor/Dialogue System/DLLs/Editor/DialogueSystemEditors.dll</HintPath>
+=======
+ <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/DialogueSystem.dll</HintPath>
+ </Reference>
+ <Reference Include="LuaInterpreter">
+ <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/LuaInterpreter.dll</HintPath>
+ </Reference>
+ <Reference Include="DialogueSystemEditors">
+ <HintPath>C:/Users/Public/Documents/Unity Projects/BaseProject/Assets/Dialogue System/DLLs/Editor/DialogueSystemEditors.dll</HintPath>
+>>>>>>> 093fd924f43cae17aa1c8863e4c0fbfb36215f6f
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -328,6 +338,11 @@
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
       <Project>{DA228BDB-9673-AAE5-E232-34CE9FD69B30}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+<<<<<<< HEAD
+=======
+    <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
+      <Project>{952EB7B2-06EB-8911-39F7-5046BF4D7CCB}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
+>>>>>>> 093fd924f43cae17aa1c8863e4c0fbfb36215f6f
     <ProjectReference Include="Assembly-CSharp.csproj">
       <Project>{6832F195-A864-FBC1-B4A1-641CE4C408CA}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript.unityproj">
