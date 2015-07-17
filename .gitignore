@@ -47,4 +47,9 @@ Temporary Items
 /Library
 /Temp
 *.info
+<<<<<<< HEAD
 
+=======
+Library/
+Temp/
+>>>>>>> be2f91939e9b327258ee2d8ccd9c99fbd256e6db

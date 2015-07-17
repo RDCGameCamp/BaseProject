@@ -48,6 +48,7 @@
   <ItemGroup>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
      <Compile Include="Assets\BlockDestroy.cs" />
      <Compile Include="Assets\CameraController.cs" />
      <Compile Include="Assets\HeadTurn.cs" />
@@ -58,6 +59,8 @@
      <Compile Include="Assets\StandardAssets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <None Include="Assets\Editor\Dialogue System\_README.txt" />
 =======
+=======
+>>>>>>> be2f91939e9b327258ee2d8ccd9c99fbd256e6db
      <Compile Include="Assets\CameraController.cs" />
      <Compile Include="Assets\CarMove.cs" />
 =======

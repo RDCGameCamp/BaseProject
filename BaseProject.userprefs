@@ -2,6 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\HeadTurn.cs">
     <Files>
       <File FileName="Assets\HeadTurn.cs" Line="1" Column="1" />
@@ -14,6 +15,8 @@
       <File FileName="Assets\DungeonLevers\Scripts\MiscScripts\IdleLever.js" Line="1" Column="1" />
       <File FileName="Assets\DungeonLevers\Scripts\InteractionScript.js" Line="26" Column="37" />
 =======
+=======
+>>>>>>> be2f91939e9b327258ee2d8ccd9c99fbd256e6db
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FirstKeyPickup.cs">
     <Files>
       <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="214" Column="1" />
